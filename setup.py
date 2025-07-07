@@ -7,8 +7,8 @@ setup(
     install_requires=[
         "alpaca-py",
     ],
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="Conor Van Bibber",
+    author_email="cvanbibber@berkeley.edu",
     description="A simple but comprehensive Alpaca trading API.",
     long_description=open('README.md').read(),
     long_description_content_type="text/markdown",
