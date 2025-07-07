@@ -1,0 +1,13 @@
+README.md
+setup.py
+simplealpaca/__init__.py
+simplealpaca/client.py
+simplealpaca.egg-info/PKG-INFO
+simplealpaca.egg-info/SOURCES.txt
+simplealpaca.egg-info/dependency_links.txt
+simplealpaca.egg-info/requires.txt
+simplealpaca.egg-info/top_level.txt
+simplealpaca/data/__init__.py
+simplealpaca/trading/__init__.py
+simplealpaca/utils/__init__.py
+tests/test_simplealpaca.py
